@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ig1387 (Ilia Ghasemi)
 - 👀 I’m interested in EVERYTHING ! 
 - 🌱 I’m currently learning c++, python, c#, html, css, C, golang, SQL and ... 
+- 🌍 these are my websites : 
+-        ig1387.com 
 - 📫 You can reach me by ...
 -     ❤ phone number : ___
 -     💚 chess.com : IGhasmi 
