@@ -1,16 +1,13 @@
 - 👋 Hi, I’m @ig1387 (Ilia Ghasemi)
 - 👀 I’m interested in EVERYTHING ! 
 - 🌱 I’m currently learning c++, python, c#, html, css, C, golang, SQL, illustrator, photoshop, Unity, After Effectes and ... 
-- 🌍 these are my websites : 
--        ig1387.com 
+- 🌍 these are my websites : ... ok, I didnt have enough money to pay them :(
 - 📫 You can reach me by ...
--     ❤ phone number : ___
 -     💚 chess.com : IGhasmi 
 -     💜 Discord : I.G#9048 
 -     💙 Quera : ایلیا قاسمی 
 -     🧡 codeforces : ilia_ghasemi
 -     🤎 codechef : ig1387ig
--     
 -aaaand with many other ways :) anyway, hope you enjoy my projects! 
       
 
